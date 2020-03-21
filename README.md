@@ -2,6 +2,7 @@
 
 This is the Table of Contects for my **Code 201** Daily notes
 
+- [class-01]()
 - [About me]()
 - [HTML Text, CSS Introduction, and Basic JavaScript]()
 - [HTML Lists, CSS Boxes, JS Control Flow]()
