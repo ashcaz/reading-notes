@@ -1,4 +1,4 @@
-### Duckett HTML Ch. 2 Text (p.40-61)
+## Duckett HTML Ch. 2 Text (p.40-61)
 
 **Headings**
 
@@ -21,7 +21,7 @@
 
 - **Semantic Markup** does not affect the structure of the webpage but add extra information for things like accesibility functions
 
-### Duckett HTML Ch. 10 Introducing CSS
+## Duckett HTML Ch. 10 Introducing CSS
 
 **Understanding CSS**
 
@@ -68,7 +68,7 @@ CSS works in cascading rules - goes from top to bottom, if two rules are identic
 - When making a change to all h1 elements you dont have to individually change every element. You only need to change one css style sheet.
 
 
-### Duckett JS Ch.2 Basic JavaScript Instructions (p.53-84)
+## Duckett JS Ch.2 Basic JavaScript Instructions (p.53-84)
 
 **Statements**
 
@@ -118,7 +118,7 @@ CSS works in cascading rules - goes from top to bottom, if two rules are identic
 5. Use a name that describes what information the variable is storing. For example if the variable is storing someones age name the variable age.
 6. If your variable is made up of more than one 
 
-### Duckett JS Ch. 4 Decisions & Loops (p.145-162)
+## Duckett JS Ch. 4 Decisions & Loops (p.145-162)
 
 **Evaluating Conditions & Conditional Statements**
 
