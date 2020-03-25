@@ -147,3 +147,5 @@ You can evaluate a situation by comparing one value in the script to what you ex
 - ```&& ```Logical and
 - ```||``` Logical or
 - ```!``` Logical not
+
+[Back to Homepage](https://ashcaz.github.io/reading-notes)

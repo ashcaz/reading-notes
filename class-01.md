@@ -45,4 +45,6 @@ Chrome > View > Developer > View Source (option + command + u) - allows you to v
 - section : groups related content together
 - hgroup : group together a set of 1 or more h1 through h6 elements
 - figure and figcaption : used to contain any content that is referenced from the main flow of an article
-- div : mulitpurpose container when there is no other suitable element
+- div : mulitpurpose container when there is no other suitable 
+
+[Back to Homepage](https://ashcaz.github.io/reading-notes)

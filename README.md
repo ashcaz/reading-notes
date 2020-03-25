@@ -2,8 +2,9 @@
 
 This is the Table of Contects for my **Code 201** Daily notes
 
-- [class-01](https://ashcaz.github.io/reading-notes/class-01)
-- [About me]()
+- [class-01 Notes](https://ashcaz.github.io/reading-notes/class-01)
+- [Class-02 Notes](https://ashcaz.github.io/reading-notes/class-01)
+<!-- - [About me]()
 - [HTML Text, CSS Introduction, and Basic JavaScript]()
 - [HTML Lists, CSS Boxes, JS Control Flow]()
 - [HTML Links, CSS Layout, JS Functions]()
@@ -17,4 +18,4 @@ This is the Table of Contects for my **Code 201** Daily notes
 3. Docs for the HTML `<canvas>` Element & Chart.js
 4. Local Storage
 5. CSS Transforms, Transitions, and Animations
-6. Merge conflicts with Bob, Carol, Ted, and Alice
+6. Merge conflicts with Bob, Carol, Ted, and Alice -->
