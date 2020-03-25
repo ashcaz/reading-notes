@@ -150,7 +150,7 @@ quantity = variable name
 
 ```javascript
 if (score > 50){
-    document.write("You Passed!);
+    document.write("You Passed!");
   else {
       document.write("Try again..");
     }
