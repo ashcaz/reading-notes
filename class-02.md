@@ -29,9 +29,11 @@
 - CSS allows you to create rules that determines what each individual box is presented
 - CSS associates the rules you create with the HTML element. A CSS rule has two parts a **selector** - indicates which element the rule applies to, and a **declaration** -indicates how the elements referred to in the selector should be styled
 
-`p (selector){
+```javascript
+p (selector){
     font-family (property); Arial (value); (everything inside curly brackets = declaration)
-}`
+}
+```
 
 - Declarations sit inside of curly brackets
 - Declarations are made up of two parts: a **property** - indicates the aspect of the element you want to change, and a **value** - specify settings you want to use for the chosen property.
@@ -41,7 +43,9 @@
 
 - You can use the link element in an HTML document to tell the browser where to find the CSS file used to style the page
 
-`link href="css/styles.css" type="text/css" rel="stylesheet"`
+```javascript
+link href="css/styles.css" type="text/css" rel="stylesheet"
+```
 
 - href specifies the path to the CSS file
 - The type attribute  tells you the type of document
@@ -96,21 +100,21 @@ var age = 17;
 
 - Variables are used by scripts to temporarily store information
 - Before you can use a variable you need to announce that you want to use it
-
-    ```javascript
-    var quantity;
-    ```
+- In order to use a variable you have to give it a name, which is sometimes called an identifier
 
 ```javascript 
 var = variable keyword
 ```
-    - in order to use a variable you have to give it a name, which is sometimes called an identifier
+```javascript
+var quantity;
+```
+
+- If varable name is more than one word its usually written in **camelCase**
+- Once you've created a variable, you can tell it what information you would like it to store for you aka assigning a value
 
 ```javascript
 quantity = variable name
 ```
-    - if varable name is more than one word its usually written in **camelCase**
-- Once you've created a variable, you can tell it what information you would like it to store for you aka assigning a value
 
     ```javascript
     quantity = 3
@@ -145,10 +149,11 @@ quantity = variable name
   2. A conditional statement says what to do in a given situation
 
 ```javascript
-if (score.50){
+if (score > 50){
     document.write("You Passed!);
-    } else {
+  else {
       document.write("Try again..");
+    }
 }
 ```
 
