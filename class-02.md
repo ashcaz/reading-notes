@@ -73,14 +73,23 @@ CSS works in cascading rules - goes from top to bottom, if two rules are identic
 **Statements**
 
 - A script is a series of instructions taht a computer can follow one-by-one. (Like a recipe)
-- statements end with a semicolon example `var age = 17;`
+- statements end with a semicolon example 
+```javascript
+var age = 17;
+```
 - each statement starts on a new line
 
 **Comments**
 
-- Use comments to explain what your code does 
-  - `/* Use thes to comment out milti-line comments*/`
-  - Use two forward slashes `// Like this` to do single line comments
+- Use comments to explain what your code does
+```javascript
+/* Use this to comment out milti-line comments*/
+```
+  - Use two forward slashes to do single line comments
+  ```javascript
+  // Like this
+  ``` 
+  
 
 
 **Variables** 
@@ -88,15 +97,24 @@ CSS works in cascading rules - goes from top to bottom, if two rules are identic
 - Variables are used by scripts to temporarily store information
 - Before you can use a variable you need to announce that you want to use it
 
-    `var quantity;`
+    ```javascript
+    var quantity;
+    ```
 
-- `var = variable keyword`
-    - in order to use a variable you have to give it a name, which is sometimes called an identifier 
-- `quantity = variable name`
+```javascript 
+var = variable keyword
+```
+    - in order to use a variable you have to give it a name, which is sometimes called an identifier
+
+```javascript
+quantity = variable name
+```
     - if varable name is more than one word its usually written in **camelCase**
 - Once you've created a variable, you can tell it what information you would like it to store for you aka assigning a value
 
-    `quantity = 3`
+    ```javascript
+    quantity = 3
+    ```
 
 - equal sign is the assignment operator it says that you're going to assign a value to the variable
 - 3 is the variable value. Until you assign a value the value is undefined
@@ -126,11 +144,13 @@ CSS works in cascading rules - goes from top to bottom, if two rules are identic
   1. An expression is evaluated, which returns a value
   2. A conditional statement says what to do in a given situation
 
-  `if (score.50){`
-    `document.write("You Passed!);`
-    `} else {`
-      `document.write("Try again..");`
-    `}`
+```javascript
+if (score.50){
+    document.write("You Passed!);
+    } else {
+      document.write("Try again..");
+}
+```
 
 ## Comparison Operators: Evaluating Conditions
 
