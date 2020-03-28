@@ -76,3 +76,5 @@ for(var i = 0; i < 10; i++){
 **Do While loops**
 
 - The key difference between a while loop and a do while loop is that the statements in the code block come before the condition. This means that those statements are run once wether or not the condition is met.
+
+[Back to Homepage](https://ashcaz.github.io/reading-notes)

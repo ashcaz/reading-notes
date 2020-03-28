@@ -3,8 +3,8 @@
 This is the Table of Contects for my **Code 201** Daily notes
 
 - [class-01 Notes](https://ashcaz.github.io/reading-notes/class-01)
-- [Class-02 Notes](https://ashcaz.github.io/reading-notes/class-02)
-
+- [class-02 Notes](https://ashcaz.github.io/reading-notes/class-02)
+- [class-03 Notes](https://ashcaz.github.io/reading-notes/class-03)
 <!-- - [About me]()
 - [HTML Text, CSS Introduction, and Basic JavaScript]()
 - [HTML Lists, CSS Boxes, JS Control Flow]()
