@@ -116,11 +116,11 @@ var quantity;
 quantity = variable name
 ```
 
-    ```javascript
+```javascript
     quantity = 3
-    ```
+```
 
-- equal sign is the assignment operator it says that you're going to assign a value to the variable
+- Equal sign is the assignment operator it says that you're going to assign a value to the variable
 - 3 is the variable value. Until you assign a value the value is undefined
 
 **Data Types**
