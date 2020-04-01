@@ -31,9 +31,9 @@
     - Boarder-width, boarder-style and boarder-color properties are popular(p.310)
   2. Margin
     - Margins sit outside of the edge of the boarder
-    - you can set the width of the margin to create a gap between the boarder of two adjacent boaxes
+    - you can set the width of the margin to create a gap between the boarder of two adjacent boxes
   3. Padding
-    - Padding is the space between teh boarder of the box and any content contained within it.
+    - Padding is the space between the boarder of the box and any content contained within it.
     - Adding padding can increase readability of its contents
 
     **Change Inline/Block**
