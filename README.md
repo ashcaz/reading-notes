@@ -6,3 +6,4 @@ This is the Table of Contects for my **Code 201** Daily notes
 - [class-02 Notes](https://ashcaz.github.io/reading-notes/class-02)
 - [class-03 Notes](https://ashcaz.github.io/reading-notes/class-03)
 - [class-04 Notes](https://ashcaz.github.io/reading-notes/class-04)
+- [class-05 Notes](https://ashcaz.github.io/reading-notes/class-05)

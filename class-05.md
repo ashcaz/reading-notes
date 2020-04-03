@@ -58,5 +58,4 @@
   3. Center
   4. Justify: indicates that every line in a paragraph, except the last line, should be set to take up the full width of of the containing box.
 
-
-
+[Back to Homepage](https://ashcaz.github.io/reading-notes)
