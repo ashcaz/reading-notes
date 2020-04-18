@@ -61,11 +61,40 @@
 
 - `type="password"` creates a text box that acts like a single line input, except the characters are blocked out
 
+## Duckett HTML Ch. 14 Lists, Tables & Forms (p.330-357)
+
+- Lots of CSS notes read book again
 
 
+## Duckett JS Ch. 6 Events (p.243-292)
 
+- When you browse the web , your browser registers different types of events. Its the browser's way of saying, "hey this happened". Your script can respond to these events
+  - Interactions create events
+  - Events trigger code
+  - Code responds tp users
 
+**Different Types of events**
 
+- `load`
+- `error`
+- `scroll`
+- `click`
+- `mouseover`
+
+**How Events Trigger JavaScript Code**
+
+1. Select element node(s) you want the script to respond to.
+2. Indicate which event on the selected node(s) will trigger the respose
+3. State the code you want to run when the event occurs
+
+**Three Ways To Bind An Event To An Element**
+
+1. HTML Event Handlers
+  - THIS IS BAD PROCTICE DO NOT USE
+
+2. Traditional DOM Event Handlers
+  
+3. DOM level 2 Event Listeners
 
 
 [Back to Homepage](https://ashcaz.github.io/reading-notes)
