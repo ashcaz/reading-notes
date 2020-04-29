@@ -73,7 +73,7 @@ function draw() {
 1. fillText(text, x, y [, maxWidth])
   - Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
 
-```JavaScript
+```javascript
 function draw() {
   var ctx = document.getElementById('canvas').getContext('2d');
   ctx.font = '48px serif';
@@ -84,7 +84,7 @@ function draw() {
   - Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
 
   
-```JavaScript
+```javascript
 function draw() {
   var ctx = document.getElementById('canvas').getContext('2d');
   ctx.font = '48px serif';
