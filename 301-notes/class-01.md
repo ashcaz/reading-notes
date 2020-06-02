@@ -1,6 +1,8 @@
 # SMACSS and Responsive Web Design
 
-## [Responsive Web Design] (https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+## Responsive Web Design
+
+[Website here](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 
 **Responsive Overview**
 Reponsive websites are about how do build websites that are suitable for all users regaurdless of the platform they are on.
