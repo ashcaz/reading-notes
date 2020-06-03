@@ -21,30 +21,30 @@ This selector finads all the `<li>` elements with the class of hot.
 2. Common tasks in less code
 3. Cross-browser compatibility
 
-![Single Element vs Multiple elements](../img/jquery-elements)
+![Single Element vs Multiple elements](../img/jquery-elements.png)
 
 **Checking A Page Is Ready To Work With**
 
-![.ready()](../img/ready)
+![.ready()](../img/ready.png)
 
 
 The `.ready()` method checks if the browser supports the `DOMCntentLoaded` event, because it fires as soon as the DOM has loaded and can make the page appear as if it is loading faster.
 
 **Getting Element Content**
 
-![getting content](../img/getting-content)
+![getting content](../img/getting-content.png)
 
 **Updating Elements**
 
-![updating elements](../img/updating-elements)
+![updating elements](../img/updating-elements.png)
 
 **Inserting Elements**
 
-![Inserting elements](../img/inserting-elements)
+![Inserting elements](../img/inserting-elements.png)
 
 **Getting And Setting Attribute Values**
 
-![Attributes](../img/set-attr)
+![Attributes](../img/set-attr.png)
 
 **Event Methods**
 
@@ -56,6 +56,6 @@ $('li').on('click', function(){
 });
 ```
 
-![Events](../img/events)
+![Events](../img/events.png)
 
 [Back to Homepage](https://ashcaz.github.io/reading-notes)
