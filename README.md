@@ -25,3 +25,4 @@ This is the Table of Contects for my **Code 301** Daily notes
 - [class-03 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-03)
 - [class-04 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-04)
 - [class-05 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-05)
+- [class-06 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-06)
