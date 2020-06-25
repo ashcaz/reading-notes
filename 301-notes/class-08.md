@@ -1,9 +1,9 @@
 # Structured Query Language (SQL)
 
 **Links:**
-[SQLBolt](https://sqlbolt.com/)
-[W3School Practice](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
-[SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
+- [SQLBolt](https://sqlbolt.com/)
+- [W3School Practice](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+- [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
 
 ## What is SQL?
 
