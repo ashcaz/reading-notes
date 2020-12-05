@@ -1,6 +1,6 @@
 # Code Fellows Reading Notes
 
-This is the Table of Contects for my **Code 201** Daily notes
+## Code 201 - Foundations of Software Development
 
 - [class-01 Notes](https://ashcaz.github.io/reading-notes/201-notes/class-01)
 - [class-02 Notes](https://ashcaz.github.io/reading-notes/201-notes/class-02)
@@ -18,7 +18,7 @@ This is the Table of Contects for my **Code 201** Daily notes
 - [class-14a Notes](https://ashcaz.github.io/reading-notes/201-notes/class-14a)
 - [class-14b Notes](https://ashcaz.github.io/reading-notes/201-notes/class-14b)
 
-This is the Table of Contects for my **Code 301** Daily notes
+## Code 301 - Intermediate Software Development
 
 - [class-01 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-01)
 - [class-02 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-02)
@@ -34,3 +34,5 @@ This is the Table of Contects for my **Code 301** Daily notes
 - [class-12 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-12)
 - [class-13 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-13)
 - [class-14 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-14)
+
+## Code 401 - Advanced Software Development
