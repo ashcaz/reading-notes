@@ -36,3 +36,5 @@
 - [class-14 Notes](https://ashcaz.github.io/reading-notes/301-notes/class-14)
 
 ## Code 401 - Advanced Software Development
+
+- [class 1 - Beginners Guide to Big O](https://ashcaz.github.io/reading-notes/401-notes/class-01)
