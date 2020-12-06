@@ -88,3 +88,6 @@ print(return_squares(nums))
 ```
 
 The function accepts a list of integers and returns a list with the corresponding squares of integers. The algorithm has to allocate memory for the same number of items as in the input list. Therefore, the space complexity of the algorithm becomes O(n).
+
+[Back to Homepage](https://ashcaz.github.io/reading-notes)
+
