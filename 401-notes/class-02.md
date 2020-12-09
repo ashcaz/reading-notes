@@ -50,6 +50,26 @@ def tri_recursion(k):
 print("\n\nRecursion Example Results")
 tri_recursion(6)
 ```
+### What is a base condition?
+
+In the recursive program, the solution to the base case is provided and the solution of the bigger problem is expressed in terms of smaller problems.
+
+In the above example the else statement is the base case (k equalling to 0)
+
+the base case lets the program no when to stop so stack overflow doesnt occur)
+
+### What is difference between tailed and non-tailed recursion? 
+
+A recursive function is tail recursive when recursive call is the last thing executed by the function. Please refer tail recursion article for details. 
+
+### DisadvantagesWhat are the disadvantages of recursive programming over iterative programming?
+
+The recursive program has greater space requirements than iterative program as all functions will remain in the stack until the base case is reached. It also has greater time requirements because of function calls and returns overhead.
+
+### What are the advantages of recursive programming over iterative programming?
+
+Recursion provides a clean and simple way to write code. Some problems are inherently recursive like tree traversals
+
 
 [Real World Example of Recursion](https://stackoverflow.com/questions/105838/real-world-examples-of-recursion)
 
