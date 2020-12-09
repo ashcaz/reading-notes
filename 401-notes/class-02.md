@@ -73,5 +73,7 @@ Recursion provides a clean and simple way to write code. Some problems are inher
 
 [Real World Example of Recursion](https://stackoverflow.com/questions/105838/real-world-examples-of-recursion)
 
+[Article that is pretty straight and to the point](https://www.programiz.com/python-programming/recursion)
+
 [Back to Homepage](https://ashcaz.github.io/reading-notes)
 
