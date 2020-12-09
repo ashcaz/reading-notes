@@ -38,3 +38,4 @@
 ## Code 401 - Advanced Software Development
 
 - [class 1 - Beginners Guide to Big O](https://ashcaz.github.io/reading-notes/401-notes/class-01)
+- [class 2 - Testing and Recursion](https://ashcaz.github.io/reading-notes/401-notes/class-02)
