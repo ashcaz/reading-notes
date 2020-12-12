@@ -39,3 +39,4 @@
 
 - [class 1 - Beginners Guide to Big O](https://ashcaz.github.io/reading-notes/401-notes/class-01)
 - [class 2 - Testing and Recursion](https://ashcaz.github.io/reading-notes/401-notes/class-02)
+- [class 3 - Read/Write Files and Exceptions](https://ashcaz.github.io/reading-notes/401-notes/class-03)
