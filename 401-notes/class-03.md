@@ -114,5 +114,13 @@ if x > 5:
 
 The try and except block in Python is used to catch and handle exceptions. Python executes code following the try statement as a “normal” part of the program. The code that follows the except statement is the program’s response to any exceptions in the preceding try clause.
 
+```Python
+try:
+    with open('file.log') as file:
+        read_data = file.read()
+except:
+    print('Could not open file.log')
+``` 
+
 [Back to Homepage](https://ashcaz.github.io/reading-notes)
 
