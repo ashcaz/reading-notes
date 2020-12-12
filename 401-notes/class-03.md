@@ -92,6 +92,27 @@ Another way you could iterate over each line in the file is to use the Python .r
 >>>     for line in reader.readlines():
 >>>         print(line, end='')
 ```
+## Python Exceptions: An Introduction
+
+A Python program terminates as soon as it encounters an error. In Python, an error can be a syntax error or an exception.
+
+### Exceptions versus Syntax Errors
+
+An Exception error occurs whenever syntactically correct Python code results in an error.
+
+Instead of showing the message exception error, Python details what type of exception error was encountered.
+
+### Raising an Exception
+
+```Python
+x = 10
+if x > 5:
+    raise Exception('x should not exceed 5. The value of x was: {}'.format(x))
+```
+
+### The try and except Block: Handling Exceptions
+
+The try and except block in Python is used to catch and handle exceptions. Python executes code following the try statement as a “normal” part of the program. The code that follows the except statement is the program’s response to any exceptions in the preceding try clause.
 
 [Back to Homepage](https://ashcaz.github.io/reading-notes)
 
