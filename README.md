@@ -41,3 +41,4 @@
 - [class 2 - Testing and Recursion](https://ashcaz.github.io/reading-notes/401-notes/class-02)
 - [class 3 - Read/Write Files and Exceptions](https://ashcaz.github.io/reading-notes/401-notes/class-03)
 - [class 4 - Classes and Objects/Pytest Fixtures and Coverage](https://ashcaz.github.io/reading-notes/401-notes/class-04)
+- [class 5 - Linked Lists](https://ashcaz.github.io/reading-notes/401-notes/class-05)
