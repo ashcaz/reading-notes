@@ -44,3 +44,8 @@
 - [class 5 - Linked Lists](https://ashcaz.github.io/reading-notes/401-notes/class-05)
 - [class 6 - Random Module/Risk Analysis](https://ashcaz.github.io/reading-notes/401-notes/class-06)
 - [class 7 - Python Scope](https://ashcaz.github.io/reading-notes/401-notes/class-07)
+- [class 8 - List Comprehension](https://ashcaz.github.io/reading-notes/401-notes/class-08)
+- [class 9 - Dunder Methods and Statistics - Probability](https://ashcaz.github.io/reading-notes/401-notes/class-09)
+- [class 10 - Stacks and Queues](https://ashcaz.github.io/reading-notes/401-notes/class-10)
+- [class 11 - Jupyter Lab and Numpy](https://ashcaz.github.io/reading-notes/401-notes/class-11)
+- [class 12 - Pandas](https://ashcaz.github.io/reading-notes/401-notes/class-12)
