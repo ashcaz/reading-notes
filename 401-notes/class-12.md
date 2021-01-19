@@ -35,4 +35,8 @@ Pandas gives you answers about the data. Like:
 - Max value?
 - Min value?
 
+## Real Python - Pandas Tutorial
+
+Pandas is a game-changer for data science and analytics, particularly if you came to Python because you were searching for something more powerful than Excel and VBA. Pandas uses fast, flexible, and expressive data structures designed to make working with relational or labeled data both easy and intuitive.
+
 [Back to Homepage](https://ashcaz.github.io/reading-notes)
