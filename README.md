@@ -49,3 +49,4 @@
 - [class 10 - Stacks and Queues](https://ashcaz.github.io/reading-notes/401-notes/class-10)
 - [class 11 - Jupyter Lab and Numpy](https://ashcaz.github.io/reading-notes/401-notes/class-11)
 - [class 12 - Pandas](https://ashcaz.github.io/reading-notes/401-notes/class-12)
+- [class 13 - Linear Regression](https://ashcaz.github.io/reading-notes/401-notes/class-13)
