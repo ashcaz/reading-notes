@@ -50,3 +50,4 @@
 - [class 11 - Jupyter Lab and Numpy](https://ashcaz.github.io/reading-notes/401-notes/class-11)
 - [class 12 - Pandas](https://ashcaz.github.io/reading-notes/401-notes/class-12)
 - [class 13 - Linear Regression](https://ashcaz.github.io/reading-notes/401-notes/class-13)
+- [class 14 - Matplotlib, Seaborn, Bokeh](https://ashcaz.github.io/reading-notes/401-notes/class-14)
