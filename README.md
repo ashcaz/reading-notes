@@ -52,3 +52,4 @@
 - [class 13 - Linear Regression](https://ashcaz.github.io/reading-notes/401-notes/class-13)
 - [class 14 - Matplotlib, Seaborn, Bokeh](https://ashcaz.github.io/reading-notes/401-notes/class-14)
 - [class 15 - Trees](https://ashcaz.github.io/reading-notes/401-notes/class-15)
+- [class 16 - Web Scraping](https://ashcaz.github.io/reading-notes/401-notes/class-16)
