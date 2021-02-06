@@ -53,3 +53,4 @@
 - [class 14 - Matplotlib, Seaborn, Bokeh](https://ashcaz.github.io/reading-notes/401-notes/class-14)
 - [class 15 - Trees](https://ashcaz.github.io/reading-notes/401-notes/class-15)
 - [class 16 - Web Scraping](https://ashcaz.github.io/reading-notes/401-notes/class-16)
+- [class 18 - Cyrptography](https://ashcaz.github.io/reading-notes/401-notes/class-18)
