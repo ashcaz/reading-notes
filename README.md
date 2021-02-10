@@ -54,3 +54,4 @@
 - [class 15 - Trees](https://ashcaz.github.io/reading-notes/401-notes/class-15)
 - [class 16 - Web Scraping](https://ashcaz.github.io/reading-notes/401-notes/class-16)
 - [class 18 - Cyrptography](https://ashcaz.github.io/reading-notes/401-notes/class-18)
+- [class 19 - Automation](https://ashcaz.github.io/reading-notes/401-notes/class-18)
