@@ -1,4 +1,4 @@
-# Automation
+# Intro to Django
 
 **LINKS**
 

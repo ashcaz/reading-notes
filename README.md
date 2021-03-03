@@ -56,3 +56,4 @@
 - [class 18 - Cyrptography](https://ashcaz.github.io/reading-notes/401-notes/class-18)
 - [class 19 - Automation](https://ashcaz.github.io/reading-notes/401-notes/class-19)
 - [class 26 - Intro to Django](https://ashcaz.github.io/reading-notes/401-notes/class-26)
+- [class 27 - Django Models](https://ashcaz.github.io/reading-notes/401-notes/class-27)
