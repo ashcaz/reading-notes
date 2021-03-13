@@ -59,3 +59,4 @@
 - [class 27 - Django Models](https://ashcaz.github.io/reading-notes/401-notes/class-27)
 - [class 28 - Django CRUD and Forms](https://ashcaz.github.io/reading-notes/401-notes/class-28)
 - [class 29 - Django Custom User](https://ashcaz.github.io/reading-notes/401-notes/class-29)
+- [class 30 - Hash Tables](https://ashcaz.github.io/reading-notes/401-notes/class-30)
