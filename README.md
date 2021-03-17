@@ -60,3 +60,4 @@
 - [class 28 - Django CRUD and Forms](https://ashcaz.github.io/reading-notes/401-notes/class-28)
 - [class 29 - Django Custom User](https://ashcaz.github.io/reading-notes/401-notes/class-29)
 - [class 30 - Hash Tables](https://ashcaz.github.io/reading-notes/401-notes/class-30)
+- [class 31 - Django REST Framework & Docker](https://ashcaz.github.io/reading-notes/401-notes/class-31)
