@@ -61,3 +61,6 @@
 - [class 29 - Django Custom User](https://ashcaz.github.io/reading-notes/401-notes/class-29)
 - [class 30 - Hash Tables](https://ashcaz.github.io/reading-notes/401-notes/class-30)
 - [class 31 - Django REST Framework & Docker](https://ashcaz.github.io/reading-notes/401-notes/class-31)
+- [class 32 - Permissons & Postgresql](https://ashcaz.github.io/reading-notes/401-notes/class-32)
+- [class 33 - Authentication & Production Server](https://ashcaz.github.io/reading-notes/401-notes/class-33)
+- [class 34 - API Deployment](https://ashcaz.github.io/reading-notes/401-notes/class-34)
