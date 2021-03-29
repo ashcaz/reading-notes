@@ -64,3 +64,4 @@
 - [class 32 - Permissons & Postgresql](https://ashcaz.github.io/reading-notes/401-notes/class-32)
 - [class 33 - Authentication & Production Server](https://ashcaz.github.io/reading-notes/401-notes/class-33)
 - [class 34 - API Deployment](https://ashcaz.github.io/reading-notes/401-notes/class-34)
+- [class 35 - Graphs](https://ashcaz.github.io/reading-notes/401-notes/class-35)
