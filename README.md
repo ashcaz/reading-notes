@@ -67,3 +67,4 @@
 - [class 35 - Graphs](https://ashcaz.github.io/reading-notes/401-notes/class-35)
 - [class 36 - DSA Review](https://ashcaz.github.io/reading-notes/401-notes/class-36)
 - [class 37 - React I](https://ashcaz.github.io/reading-notes/401-notes/class-37)
+- [class 38 - React II](https://ashcaz.github.io/reading-notes/401-notes/class-38)
