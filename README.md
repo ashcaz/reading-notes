@@ -70,3 +70,4 @@
 - [class 38 - React II](https://ashcaz.github.io/reading-notes/401-notes/class-38)
 - [class 39 - React III](https://ashcaz.github.io/reading-notes/401-notes/class-39)
 - [class 41 - React IV](https://ashcaz.github.io/reading-notes/401-notes/class-41)
+- [class 42 - Pythonisms](https://ashcaz.github.io/reading-notes/401-notes/class-42)
